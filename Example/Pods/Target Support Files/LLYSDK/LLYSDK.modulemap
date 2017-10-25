@@ -1,0 +1,6 @@
+framework module LLYSDK {
+  umbrella header "LLYSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
