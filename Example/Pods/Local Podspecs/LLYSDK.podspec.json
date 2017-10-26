@@ -1,22 +1,23 @@
 {
   "name": "LLYSDK",
-  "version": "0.1.0",
-  "summary": "A short description of LLYSDK.",
+  "version": "0.1.1",
+  "summary": "lly sdk test",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/490859662@qq.com/LLYSDK",
+  "homepage": "https://github.com/lilingyu0620",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "490859662@qq.com": "bjlilingyu@corp.netease.com"
+    "lly": "490859662@qq.com"
   },
   "source": {
-    "git": "https://github.com/490859662@qq.com/LLYSDK.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/lilingyu0620/LLYSDK.git",
+    "tag": "0.1.1"
   },
   "platforms": {
     "ios": "8.0"
   },
+  "requires_arc": true,
   "source_files": "LLYSDK/Classes/**/*"
 }

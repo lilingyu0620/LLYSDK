@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "LLYSDKTest.h"
 
 FOUNDATION_EXPORT double LLYSDKVersionNumber;
 FOUNDATION_EXPORT const unsigned char LLYSDKVersionString[];
